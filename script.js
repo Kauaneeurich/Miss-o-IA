@@ -47,7 +47,7 @@ const perguntas = [
                 {
                     texto:    "Utilizaria transporte coletivo.",
                
-                    afirmacao: "Utilizaria transporte coletivo.",
+                    afirmacao: " O(a) Usuário(a) Consciente:Pessoa que considera alternativas de transporte que podem diminuir o impacto ambiental.",
         }    
                
             ]
