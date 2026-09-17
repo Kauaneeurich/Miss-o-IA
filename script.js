@@ -32,7 +32,7 @@ const perguntas = [
                 {
                     texto:  "Reduzindo o uso de produtos descartáveis.",
                     afirmacao: "O(a) Redutor(a) de Resíduos:Pessoa que prefere produtos reutilizáveis e busca produzir menos lixo no cotidiano.",
-               
+                }
             ]
         },
         {
@@ -43,7 +43,7 @@ const perguntas = [
                 {
                     texto: " Utilizaria bicicleta ou caminharia quando possível.",
                     afirmacao: "O(a) Mobilizador(a) Sustentável:Pessoa que valoriza formas de transporte mais sustentáveis no dia a dia.",
-
+                }
                 {
                     texto:    "Utilizaria transporte coletivo.",
                
